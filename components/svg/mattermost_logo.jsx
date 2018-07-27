@@ -14,7 +14,7 @@ export default class MattermostLogo extends React.PureComponent {
                     id='Layer_1'
                     x='0px'
                     y='0px'
-                    viewBox='0 0 270 203'
+                    viewBox='250 100 250 200'
                     style={style.background}
                     role='icon'
                     aria-label={localizeMessage('generic_icons.mattermost', 'GlobalNET Connect Logo')}
