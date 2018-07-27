@@ -104,15 +104,8 @@ export default class AboutBuildModal extends React.PureComponent {
                 <div>
                     <FormattedMessage
                         id='about.enterpriseEditionLearn'
-                        defaultMessage='Learn more about Enterprise Edition at '
+                        defaultMessage=''
                     />
-                    <a
-                        target='_blank'
-                        rel='noopener noreferrer'
-                        href='http://about.mattermost.com/'
-                    >
-                        {'about.mattermost.com'}
-                    </a>
                 </div>
             );
 
