@@ -103,7 +103,7 @@ export default class AboutBuildModal extends React.PureComponent {
             learnMore = (
                 <div>
                     <FormattedMessage
-                        id='about.enterpriseEditionLearn'
+                        id=''
                         defaultMessage=''
                     />
                 </div>
